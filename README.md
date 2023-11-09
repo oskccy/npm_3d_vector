@@ -28,18 +28,18 @@ cat package.json
 ```
 *You should then see this* if the `npm_3d_vector` package was installed properly: 
 <br>
-<div><img width="362" alt="Screenshot 2023-11-09 at 12 19 52 PM" src="https://github.com/oskccy/npm_3d_vector/assets/118501673/6597a8e5-ae40-4876-bc5b-c07bb4b28b33"><div/>
+<div><img width="362" alt="packagefile" src="https://github.com/oskccy/npm_3d_vector/assets/118501673/74334bad-e418-4bea-994c-6e33e7854533"><div/>
+
 
 ## Usage 🏃‍♂️
 When running in a *Vanilla Script*:
 <br>
-<div><img width="436" alt="Screenshot 2023-11-09 at 12 41 50 PM" src="https://github.com/oskccy/npm_3d_vector/assets/118501673/bdcc59c4-85e2-485f-aefb-666b9c210896"><div/>
+<div><img width="436" alt="ex_app_req" src="https://github.com/oskccy/npm_3d_vector/assets/118501673/9374d729-5275-4817-8741-fba60ed90a19"><div/>
 <br>
 
 When running in a *`Node.js` application*:
 <br>
-<div><img width="517" alt="Screenshot 2023-11-09 at 12 38 45 PM" src="https://github.com/oskccy/npm_3d_vector/assets/118501673/48b356e3-ee2c-4d61-8604-7bf80f84fd66"><div/>
-<br>
+<div><img width="517" alt="node" src="https://github.com/oskccy/npm_3d_vector/assets/118501673/6f7d5796-dbd0-4b82-9a1b-36a54240c886"><div/>
   
 ## Contributions 👪
 If you're down to contribute to this package, *access this repository*:
@@ -52,4 +52,3 @@ npm install
 Then, *experiment & create a pull request*. I'll get back to you within 1-3 weeks!
 
 **Thanks so much for your help!!**
->>>>>>> master
