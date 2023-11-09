@@ -1,0 +1,13 @@
+{
+  "name": "npm_3d_vector",
+  "version": "1.0.3",
+  "repository": "github.com/oskccy/npm_3d_vector.git",
+  "scripts": {
+    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "author": "Oscar Sharaz Spencer <oscar_spencer@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "npm_3d_vector",
+    "version": "1.0.1",
+    "description": "Three dimensional vector addition, subtraction, scalar multiplication, scalar division, dot product and cross product to integrate in your Node.js applications.",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oskccy/npm_3d_vector.git"
+    },
+    "files": [
+        "lib",
+        "LICENSE",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "javascript",
+        "vector",
+        "3d"
+    ],
+    "author": "Oscar Sharaz Spencer",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/oskccy/npm_3d_vector#readme"
+    },
+    "homepage": "https://github.com/oskccy/npm_3d_vector#readme"
+}
