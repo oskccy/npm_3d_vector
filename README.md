@@ -1,4 +1,8 @@
 # NPM 3D Vector 🧮
+
+[![docs](https://img.shields.io/badge/documentation-stable-shamrock?style=flat&link=https://www.npmjs.com/package/npm_3d_vector)](https://www.npmjs.com/package/npm_3d_vector)  ![npm](https://img.shields.io/badge/npm-v1.0.11-0096FF?style=flat)
+
+
 A TypeScript and JavaScript native library, **implementing 3DV operations for any use case**. <a href="https://www.npmjs.com/package/npm_3d_vector">***(See On Node Registry Here)***<a/>
 
 > :memo:  By: <a href="https://www.linkedin.com/in/oscar-sharaz/">Oscar Sharaz Spencer<a/>
